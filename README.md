@@ -1,6 +1,4 @@
 # SneakerBot
-
-# SneakerBot
 When you do a pull request on a branch, you can continue to work on another branch and make another pull request on this other branch.
 
 Before creating a new branch, pull the changes from upstream. Your master needs to be up to date.
