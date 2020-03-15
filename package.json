@@ -1,0 +1,20 @@
+{
+  "name": "scrapebot",
+  "version": "1.0.0",
+  "description": "testing web scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "scrapebot"
+  },
+  "author": "Wasu Sonthichai",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^2.1.1"
+  }
+}
